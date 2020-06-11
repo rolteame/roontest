@@ -8,7 +8,7 @@
     position: relative;
 }
 .header-image {
-    background-image:url(header.png) no-repeat top;
+    background-image:url('header.png') no-repeat top;
     background-size: cover;
     background-position: center;
     background: rgba(0,0,0,0.3);
