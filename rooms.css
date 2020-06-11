@@ -8,10 +8,10 @@
     position: relative;
 }
 .header-image {
-    background:url("https://res.cloudinary.com/rolteame/image/upload/v1591913157/header_noxuht.png") no-repeat top;
+    background:url(header.png) no-repeat top;
     background-size: cover;
     background-position: center;
-    background: rgba(0,0,0,0.3);
+   
     height: 100vh;
     
 }
