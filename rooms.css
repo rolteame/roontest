@@ -139,11 +139,11 @@ input[type=text], input[type=email] {
 .footer-bg {
     background-color: #155A45;
 }
-/*li {
+li.item {
     background-color: #155A45;
     height: 20vh;
 }
-li a {
+a.link {
     color: #ffffff;
     text-align: center;
     margin-top: 40px;
@@ -151,7 +151,7 @@ li a {
 .topnav {
     background: transparent;
     
-}*/
+}
 li.nav-item {
     background: transparent;
     padding-top: 30px;
@@ -160,4 +160,6 @@ li.nav-item {
 .logo {
     background: transparent;
 }
-
+li.nav-link {
+    color: #ffffff;
+}
